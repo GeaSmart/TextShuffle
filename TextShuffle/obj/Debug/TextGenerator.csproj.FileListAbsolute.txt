@@ -1,0 +1,6 @@
+C:\Users\Gerson.Azabache\source\repos\TextGenerator\TextGenerator\bin\Debug\TextGenerator.exe
+C:\Users\Gerson.Azabache\source\repos\TextGenerator\TextGenerator\bin\Debug\TextGenerator.pdb
+C:\Users\Gerson.Azabache\source\repos\TextGenerator\TextGenerator\obj\Debug\TextGenerator.csproj.AssemblyReference.cache
+C:\Users\Gerson.Azabache\source\repos\TextGenerator\TextGenerator\obj\Debug\TextGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Gerson.Azabache\source\repos\TextGenerator\TextGenerator\obj\Debug\TextGenerator.exe
+C:\Users\Gerson.Azabache\source\repos\TextGenerator\TextGenerator\obj\Debug\TextGenerator.pdb
