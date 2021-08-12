@@ -10,7 +10,9 @@ namespace TextGenerator
         static void Main(string[] args)
         {
             string cadena = "Un objeto es la instancia de una clase";
-
+            Console.WriteLine("Texto inicial:");
+            Console.WriteLine(cadena);
+            Console.WriteLine("\r\nTexto con alteraciones de posición aleatorias:");
             Console.WriteLine(shuffle(cadena));
             Console.Read();
         }
@@ -37,8 +39,7 @@ namespace TextGenerator
                     listaLlenado.Add(elegido);
                     builder.Append(text[elegido]);
                 }
-            }
-            string newText = listaOriginal[0].ToString();                        
+            }            
             return builder.ToString();            
         }
     }
